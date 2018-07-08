@@ -1,2 +1,1 @@
-# www.benedictflorance.me
-Personal Website.
+# Hugo Source Files
