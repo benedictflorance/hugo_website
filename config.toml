@@ -6,11 +6,11 @@
 baseurl = "http://benedictflorance.me"
 
 # Title of your site
-title = "Benedict Florance A"
+title = "Benedict Florance"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018  · Benedict Florance A"
+copyright = "&copy; 2018  · Benedict Florance"
 
 theme = "academic"
 enableEmoji = true
@@ -54,7 +54,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
+  name = "Benedict Florance"
   role = "Computer Science Undergraduate Student"
 
   # Organizations/Affiliations.
@@ -94,10 +94,10 @@ enableGitInfo = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = "AIzaSyAH278Zlix7114h7oxweZXTjVZyCQh01EM"
+  map_api_key = "AIzaSyBwv9cYYuaYjSmnnclWcDip_WIUOkIuGoU"
   latitude = "10.766707"
   longitude = "78.817650"
-  zoom = 15
+  zoom = 14
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -236,9 +236,9 @@ enableGitInfo = false
     link = "//linkedin.com/in/benedictflorance"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "facebook"
     icon_pack = "fa"
-    link = "//twitter.com/benedict_abf"
+    link = "//facebook.com/benedictflorance"
 
   [[params.social]]
     icon = "twitter"
@@ -259,8 +259,8 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Projects"
+  url = "#projects"
   weight = 2
 
 [[menu.main]]
@@ -269,19 +269,14 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "CV/Resume"
+  url = "#resume"
   weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
