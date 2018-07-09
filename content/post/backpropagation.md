@@ -8,7 +8,7 @@ authors = ["Benedict Florance"]
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ['machine_learning', 'deep_learning', 'neural_networks', 'backpropagation', 'AI']
+tags = ['machine-learning', 'deep-learning', 'neural-networks', 'backpropagation', 'ai']
 categories = []
 
 # Featured image
