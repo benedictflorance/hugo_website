@@ -31,7 +31,7 @@ caption = ""
 +++
 ![Plant Collage](../../img/indianflora.jpg)
 
-* The full project report can be found {{% staticref "pdf/Indian_Flora_Project.pdf" %}}here{{% /staticref%}}.
+* The full project report can be found [here](https://drive.google.com/file/d/1hhzZYk9c4zbqJtzZ46NwfAZz0b-7W56j/view?usp=sharing).
 * Employed Convolutional Neural Network model (ResNet18) by iterating through several different models
 trained from-the-scratch, fine-tuned on ImageNet, PlantCLEF Encyclopedia of Life, PlantCLEF noisy web
 datasets on a manually collected, robust dataset of 100 Indian plant species. (using PyTorch)

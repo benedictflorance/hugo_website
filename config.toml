@@ -269,7 +269,7 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "CV/Resume"
+  name = "Curriculum Vitae"
   url = "#resume"
   weight = 4
 
