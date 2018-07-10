@@ -159,7 +159,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ['cv.css']
   custom_js  = []
 
   # Publication types.
@@ -270,7 +270,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Curriculum Vitae"
-  url = "#resume"
+  url = "#cv"
   weight = 4
 
 [[menu.main]]
