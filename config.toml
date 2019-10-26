@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://benedictflorance.me"
+baseurl = "http://benedictflorance.github.io"
 
 # Title of your site
 title = "Benedict Florance"
@@ -65,7 +65,6 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "benedictflorance.a@gmail.com"
   address = "Zircon - B Hostel, National Institute of Technology, Tiruchirappalli - 620015, Tamil Nadu, India."
-  phone = "+91 99945 91883"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
